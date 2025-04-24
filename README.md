@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Phuong.
 
-🎓 Currently an Information Systems student at HCMC University of Technology and Education
-🔭 Interests: **Web Development**, **Blockchain**, **Data Engineering**
-🌱 Currently learning: **NodeJS**, **ReactJS**, **Java Spring Boot**
+🎓 Currently an Information Systems student at HCMC University of Technology and Education  
+🔭 Interests: **Web Development**, **Blockchain**, **Data Engineering**  
+🌱 Currently learning: **NodeJS**, **ReactJS**, **Java Spring Boot**  
 💼 Recent project: Building an online sales system for a sport store
 
 ---
