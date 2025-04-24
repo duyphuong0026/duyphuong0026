@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Phuong].
 
-<!--
-**duyphuong0026/duyphuong0026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently an Information Systems student at HCMC University of Technology and Education
+🔭 Interests: **Web Development**, **Blockchain**, **Data Engineering**
+🌱 Currently learning: **NodeJS**, **ReactJS**, **Java Spring Boot**
+💼 Recent project: Building an online sales system for a sport store
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- 🧠 Languages: `Java`, `JavaScript`, `SQL`, `Python`, `C#`
+- 🌐 Front-end: `ReactJS`, `HTML`, `CSS`, `SCSS`, `Bootstrap`
+- 🗄️ Back-end: `REST API`, `JWT`, `MySQL`, `SQL Server`, `Spring Boot`, `NodeJS`
+- ⚙️ Tools: `Git`, `GitHub`, `draw.io`, `Postman`, `WorkBench`, `SSMS`
+
+---
+
+## 📫 Contact Me
+
+- Email: [duyphuong0026@gmail.com]
+- GitHub: [github.com/duyphuong0026](https://github.com/duyphuong0026)
+
+---
+
+⭐ Thanks for visiting my GitHub! Feel free to **follow** me if you find my work interesting!
