@@ -18,7 +18,7 @@
 
 ## 📫 Contact Me
 
-- Email: [duyphuong0026@gmail.com]
+- Email: duyphuong0026@gmail.com
 - GitHub: [github.com/duyphuong0026](https://github.com/duyphuong0026)
 
 ---
