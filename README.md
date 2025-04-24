@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Phuong].
+# 👋 Hi there! I'm Phuong.
 
 🎓 Currently an Information Systems student at HCMC University of Technology and Education
 🔭 Interests: **Web Development**, **Blockchain**, **Data Engineering**
